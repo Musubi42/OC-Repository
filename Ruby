@@ -2,3 +2,6 @@ J'suis du code Ruby
 
 Suite du code
 
+Suite de la suite.
+
+Test du test

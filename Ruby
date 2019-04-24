@@ -10,3 +10,4 @@ Test du test
 Du code Ruby
 En bonne et due forme
 Rien de plus
+Lol

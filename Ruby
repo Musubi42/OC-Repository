@@ -5,3 +5,8 @@ Suite du code
 Suite de la suite.
 
 Test du test
+
+
+Du code Ruby
+En bonne et due forme
+Rien de plus

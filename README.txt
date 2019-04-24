@@ -14,6 +14,5 @@ Lorem Ipsum
 kbxzbxkzse Je baise ton Lorem Ipsum
 Non enim neque tu possis quamvis
 
-
 Je suis gavé de ne pas réussir à faire de conflit
-Merde
+J'écris des choses

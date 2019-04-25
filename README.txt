@@ -6,3 +6,4 @@ Pour cela nous aurons besoin de fichier HTML et d'un fichier CSS,
 May the Force be With You.
 
 
+Test de la commande git log -p
